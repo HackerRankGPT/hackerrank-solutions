@@ -1,1 +1,1 @@
-# Hackerrank Solutions
+# Solutions to HackerRank coding problems
