@@ -9,7 +9,6 @@
 ##### :star: Star us on GitHub — it motivates us a lot!
 
 **[HackerRankGPT](https://hackerrank.solutions?s=github-repo) helps you solve HackerRank coding problems <ins>during your coding interview</ins>. 
-<br />
 Works in real-time and it's absolutely undetectable** 😎
 <br />
 <br />
