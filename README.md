@@ -15,13 +15,13 @@ Works in real-time and it's absolutely undetectable** 😎
 ---
 You're applying for a new job and have a coding problem coming up. Nerves can peak during the programming test, and even experienced developers might blank out under stress. **HackerRankGPT is an AI companion that completely solves the coding problem proposed to you, <ins>which you can quietly refer to if you're stuck at any moment.</ins>**
 ***
-## How it works?
+## ⚡️ How it works?
 
 
 
 
 
-## Why it's absolutely undetectable?
+## 😎 Why it's absolutely undetectable?
 
 |Feature   | Explanation  |
 |---|---|
@@ -36,7 +36,7 @@ You're applying for a new job and have a coding problem coming up. Nerves can pe
 
 
 
-## Which languages does it support?
+## 🐍 Which languages does it support?
 HackerRankGPT supports all languages and frameworks that GPT-4 is familiar with, practically covering a wide range. This includes Python, SQL, Java, C, C++, JavaScript, TypeScript, as well as logical and database problem solving. Additionally, it supports Ruby, Swift, PHP, Go, Kotlin, R, MATLAB, Perl... This comprehensive compatibility ensures users can tackle a diverse range of coding challenges across different platforms.
 <br />
 
