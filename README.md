@@ -1,4 +1,4 @@
-<a href="https://hackerrank.solutions/">
+<a href="https://hackerrank.solutions/?s=github-repo">
     <img src="https://unicorn-cdn.b-cdn.net/3f5f7ac8-ee8d-4664-831f-7265116e914c/-/crop/852x195/29,41/-/preview/hackerrank-solutions.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
 </a>
 
