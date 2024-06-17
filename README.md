@@ -17,6 +17,13 @@ You're applying for a new job and have a coding problem coming up. Nerves can pe
 ***
 ## ⚡️ How it works?
 
+#### ▶️ See the full demo here: https://youtu.be/F9Jnx2ZB5n4
+
+https://github.com/HackerRankGPT/hackerrank-solutions/assets/172066169/3c4cb694-66b8-465c-85e1-f51cfa8996ed
+
+
+
+
 
 
 
