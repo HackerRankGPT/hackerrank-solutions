@@ -1,5 +1,5 @@
-<a href="https://hackerrank.solutions/?s=github-repo">
-    <img src="https://unicorn-cdn.b-cdn.net/3f5f7ac8-ee8d-4664-831f-7265116e914c/-/crop/852x195/29,41/-/preview/hackerrank-solutions.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
+<a href="https://coderank.solutions/?s=github-repo">
+    <img src="https://app.coderank.solutions/logo.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
 </a>
 
 
@@ -8,12 +8,12 @@
 ##### :fire: We've helped <ins>**+3000 developers get hired**</ins>.
 ##### :star: Star us on GitHub — it motivates us a lot!
 
-**[HackerRankGPT](https://hackerrank.solutions?s=github-repo) helps you solve HackerRank coding problems <ins>during your coding interview</ins>. 
+**[CodeRankGPT](https://coderank.solutions?s=github-repo) helps you solve HackerRank coding problems <ins>during your coding interview</ins>. 
 Works in real-time and it's absolutely undetectable** 😎
 <br />
 <br />
 ---
-You're applying for a new job and have a coding problem coming up. Nerves can peak during the programming test, and even experienced developers might blank out under stress. **HackerRankGPT is an AI companion that completely solves the coding problem proposed to you, <ins>which you can quietly refer to if you're stuck at any moment.</ins>**
+You're applying for a new job and have a coding problem coming up. Nerves can peak during the programming test, and even experienced developers might blank out under stress. **CodeRankGPT is an AI companion that completely solves the coding problem proposed to you, <ins>which you can quietly refer to if you're stuck at any moment.</ins>**
 ***
 ## ⚡️ How it works?
 
@@ -32,7 +32,7 @@ https://github.com/HackerRankGPT/hackerrank-solutions/assets/172066169/3c4cb694-
 
 |Feature   | Explanation  |
 |---|---|
-|✅ HackerRankGPT runs at the Computer Level   |HackerRankGPT runs on the PC, Mac, or Linux level and stays completely invisible from HackerRank. It runs on your computer, not in the browser, so HackerRank's cheat detection can't see it.   |
+|✅ CodeRankGPT runs at the Computer Level   |CodeRankGPT runs on the PC, Mac, or Linux level and stays completely invisible from HackerRank. It runs on your computer, not in the browser, so HackerRank's cheat detection can't see it.   |
 |✅ Displaying the Solution on a Separate Device   |The solution to the coding test will be sent and displayed on another device you choose (mobile phone, tablet, or another computer). In case the interviewers ask you to share your screen, you will be safe.   |
 |✅ You can't Copy-Paste the solution   | HackerRank's anti-cheat system is capable of detecting contents in your clipboard and notice if you paste code. However, since the solution is displayed on a separate device, you can refer to it when needed and manually type it out, ensuring you stay undetected.  |
 |✅ No Tab Switching needed   | HackerRank's anti-cheat system can flag tab-switching during a coding test as suspicious behavior. With the solution displayed on a different device, you can discreetly refer to it without the need to switch tabs, avoiding any red flags.  |
@@ -44,15 +44,15 @@ https://github.com/HackerRankGPT/hackerrank-solutions/assets/172066169/3c4cb694-
 
 
 ## 🐍 Which languages does it support?
-HackerRankGPT supports all languages and frameworks that GPT-4 is familiar with, practically covering a wide range. This includes Python, SQL, Java, C, C++, JavaScript, TypeScript, as well as logical and database problem solving. Additionally, it supports Ruby, Swift, PHP, Go, Kotlin, R, MATLAB, Perl... This comprehensive compatibility ensures users can tackle a diverse range of coding challenges across different platforms.
+CodeRankGPT supports all languages and frameworks that GPT-4 is familiar with, practically covering a wide range. This includes Python, SQL, Java, C, C++, JavaScript, TypeScript, as well as logical and database problem solving. Additionally, it supports Ruby, Swift, PHP, Go, Kotlin, R, MATLAB, Perl... This comprehensive compatibility ensures users can tackle a diverse range of coding challenges across different platforms.
 <br />
 
 ## 💡 Why should you use it? A safeguard against your nerves during your coding test.
 
 **<ins>Stay ahead or fall behind— other candidates are already deciding.</ins>**
-AI is changing the world, and a tool like HackerRankGPT can give you a clear advantage in coding tests, helping you stand out when applying for jobs. It’s here now, and other candidates might be using it to get ahead and win the job.
+AI is changing the world, and a tool like CodeRankGPT can give you a clear advantage in coding tests, helping you stand out when applying for jobs. It’s here now, and other candidates might be using it to get ahead and win the job.
 
 **<ins>Think of it as a helpful option when you’re stuck, not a must-use.</ins>**
 
 ## How can I get it?
-Get more information on how to use it and download link here: HackerRankGPT - [Get all HackerRank Solutions](https://hackerrank.solutions?s=github-repo)
+Get more information on how to use it and download link here: CodeRankGPT - [Get all HackerRank Solutions](https://coderank.solutions?s=github-repo)
