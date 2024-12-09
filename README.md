@@ -32,7 +32,7 @@ https://github.com/HackerRankGPT/hackerrank-solutions/assets/172066169/3c4cb694-
 
 |Feature   | Explanation  |
 |---|---|
-|✅ CodeRankGPT runs at the Computer Level   |CodeRankGPT runs on the PC, Mac, or Linux level and stays completely invisible from HackerRank. It runs on your computer, not in the browser, so HackerRank's cheat detection can't see it.   |
+|✅ Modern browsers ensure strict isolation   |CodeRankGPT runs in your browser within a separate security context. Browser sandboxing and Same-Origin Policy ensure strict isolation, preventing HackerRank from accessing data, monitoring APIs, or detecting other tabs or processes.   |
 |✅ Displaying the Solution on a Separate Device   |The solution to the coding test will be sent and displayed on another device you choose (mobile phone, tablet, or another computer). In case the interviewers ask you to share your screen, you will be safe.   |
 |✅ You can't Copy-Paste the solution   | HackerRank's anti-cheat system is capable of detecting contents in your clipboard and notice if you paste code. However, since the solution is displayed on a separate device, you can refer to it when needed and manually type it out, ensuring you stay undetected.  |
 |✅ No Tab Switching needed   | HackerRank's anti-cheat system can flag tab-switching during a coding test as suspicious behavior. With the solution displayed on a different device, you can discreetly refer to it without the need to switch tabs, avoiding any red flags.  |
